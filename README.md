@@ -6,7 +6,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=CoderIrfann&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400">
+  <a href="https://github-readme-stats.vercel.app/api?username=CoderIrfannn&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400">
     <img src="https://github-readme-stats.vercel.app/api?username=CoderIrfann&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="CoderIrfann's GitHub Stats" width="48%" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=CoderIrfann&theme=github_dark&hide_border=true">
