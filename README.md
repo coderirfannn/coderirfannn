@@ -46,10 +46,7 @@ Computer Science undergraduate at Lovely Professional University (CGPA 7.0), wit
 
 ### Projects
 
-**Learntagus** — AI-powered computer science learning and competitive exam preparation platform
-- **Stack:** React.js, TypeScript, Tailwind CSS, Judge0 API, Gemini AI, Razorpay
-- Developed AI-driven learning modules including coding practice, MCQ generation, and personalized study recommendations to improve student performance and engagement
-- Implemented secure role-based dashboards, Supabase authentication, proctored exam workflows, gamification systems, and real-time analytics for scalable, production-ready learning management
+
 
 **PrepLens** — AI Interview Coach
 - **Objective:** Help students master AI concepts through intelligent viva preparation using local ML models combined with AI-powered feedback
