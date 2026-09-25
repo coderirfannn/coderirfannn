@@ -67,13 +67,6 @@ AI-powered disaster monitoring platform combining IoT sensors, ML-based risk pre
 - Implemented GIS-based risk-zone visualization, geo-tagged field reporting, role-based access, automated alerts, and offline-capable hardware warning workflows
 - **Tech:** React, React Native, Node.js, Express.js, MongoDB, Python, FastAPI, XGBoost, Random Forest, LightGBM, SHAP, GeoJSON, GenAI APIs
 
-**📚 Learntagus** *· September 2025 – November 2025*
-
-AI-driven learning platform with coding practice, MCQ generation, and personalized study recommendations.
-- Built modules to improve student performance and engagement through adaptive, AI-generated practice content
-- Implemented secure role-based dashboards, Supabase authentication, proctored exam workflows, gamification systems, and real-time analytics for a scalable, production-ready learning system
-- **Tech:** React.js, TypeScript, Tailwind CSS, Judge0 API, Gemini AI, Razorpay
-
 **🎓 PrepLens — AI Interview Coach** *· August 2025 – September 2025*
 
 AI-assisted viva preparation tool combining local ML with cloud-based generative AI for explainable, academically valid feedback.
@@ -107,7 +100,7 @@ Selected among the top 50 of 900+ teams in LPU's 36-hour Gear Up Season 5 hackat
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=coderirfannn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderirfannn&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=coderirfannn&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderirfannn&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 
