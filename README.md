@@ -17,50 +17,61 @@
 
 ---
 
-### About
+### About Me
 
-Computer Science undergraduate at Lovely Professional University (CGPA 7.0), with a diploma from the same institution (CGPA 7.5, Aug 2025). I've interned as an Android Developer at ThinkNEXT and build full-stack, AI-integrated web applications on the side.
+Computer Science undergraduate with a strong foundation in full-stack web development and a growing interest in AI-integrated applications. Currently pursuing a B.Tech in Computer Science at Lovely Professional University, having completed a diploma in the same field. Gained hands-on industry experience through an Android development internship and continue to build practical, real-world projects independently.
+
+---
+
+### Education
+
+| Qualification | Institution | CGPA | Status |
+|---|---|---|---|
+| B.Tech, Computer Science Engineering | Lovely Professional University | 7.0 | In Progress |
+| Diploma, Computer Science Engineering | Lovely Professional University | 7.5 | Completed, Aug 2025 |
 
 ---
 
 ### Work Experience
 
-**Android Development Intern — ThinkNEXT**, Chandigarh, India *(Jun 2024 – Jul 2024)*
-- Worked on Android app development using Java and XML layouts
-- Gained experience in Android Studio, Firebase integration, and version control with Git
-- Collaborated with the development team to test, debug, and improve application performance and usability
+**Android Development Intern — ThinkNEXT**, Chandigarh, India
+*Jun 2024 – Jul 2024*
+
+- Developed and maintained Android application features using Java and XML-based UI layouts
+- Integrated Firebase services for backend functionality and used Git for version control within a collaborative workflow
+- Worked closely with the development team to test, debug, and optimize application performance and usability
 
 ---
 
-### Tech Stack
+### Technical Skills
 
 **Languages:** JavaScript · Java · C++ · C
 
-**Core Concepts:** Data Structures & Algorithms (DSA) · OOPs
+**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming
 
-**Web Development:** React.js · REST API Integration · Node.js · Express.js · MongoDB · Responsive UI Development · Tailwind CSS
+**Web Development:** React.js · Node.js · Express.js · MongoDB · REST API Integration · Tailwind CSS · Responsive UI Design
 
-**Developer Tools:** Git · GitHub · Bootstrap · Shadcn/UI
+**Tools & Platforms:** Git · GitHub · Bootstrap · Shadcn/UI
 
 ---
 
 ### Projects
 
+**PrepLens — AI Interview Coach**
 
+An AI-assisted viva preparation platform that helps students master technical concepts through intelligent, personalized feedback, combining local machine learning with cloud-based generative AI.
 
-**PrepLens** — AI Interview Coach
-- **Objective:** Help students master AI concepts through intelligent viva preparation using local ML models combined with AI-powered feedback
-- **Stack:** Python, Flask, Groq API, Pure-Python Naive Bayes, TF-IDF, JSON, CSV
-- ML-powered intent classification using a pure-Python Naive Bayes classifier for identifying student questions and query types
-- Dual-layer architecture combining local ML transparency with cloud-based generative AI for explainability and academic validity
+- **Tech Stack:** Python, Flask, Groq API, Pure-Python Naive Bayes, TF-IDF, JSON, CSV
+- Built a pure-Python Naive Bayes classifier with TF-IDF vectorization for intent classification, enabling accurate identification of student questions and query types without external ML dependencies
+- Designed a dual-layer architecture pairing local ML models for transparency with cloud-based generative AI for explainability, improving the academic reliability of generated feedback
 
 ---
 
-### Achievements
+### Achievements & Certifications
 
 - Full Stack Web Development Certification — Apna College (March 2024)
-- Software Development Internship with hands-on real-world project experience
-- Open-source contribution and exploring GitHub projects
+- Completed a software development internship with hands-on experience on a real-world Android application
+- Active contributor to personal and open-source projects on GitHub
 
 ---
 
@@ -79,7 +90,7 @@ Computer Science undergraduate at Lovely Professional University (CGPA 7.0), wit
 
 ### Open to Opportunities
 
-Looking for internships and entry-level full-stack / AI-product roles.
+Currently seeking internships and entry-level roles in full-stack development and AI-integrated products.
 
 <div align="center">
 
